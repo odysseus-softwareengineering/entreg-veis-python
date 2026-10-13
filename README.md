@@ -1,8 +1,3 @@
-from pathlib import Path
-
-base = Path("/mnt/data/projeto_python_sprints")
-readme = r"""# Projetos Python — Sprints 2 a 6
-
 **Objetivo:** reunir em um único repositório os exercícios de Python das Semanas, demonstrando a evolução desde estruturas de controle até programação orientada a objetos.
 
 ## Requisitos
